@@ -39,7 +39,7 @@ I am a **Bachelor of Engineering student in Artificial Intelligence and Data Sci
 ### 📊 **Coding Profile & Stats**
 
 #### 🧠 **LeetCode Status**
-![LeetCode Stats](https://leetcard.jacoblin.cool/krgkaushik?theme=dark&font=Segoe%20UI&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/krg_kaushik?theme=dark&font=Segoe%20UI&ext=heatmap)
 
 #### 📈 **GitHub Stats**
 <div align="center">
