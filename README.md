@@ -1,86 +1,264 @@
-# Hi there, I'm Kaushik Gunjkar! 👋
+# Hi there 👋, I'm Kaushik Gunjkar
 
-### 👨‍💻 AI & Data Science Enthusiast | Web Developer | Problem Solver
+<h3 align="center">AI & Data Science Engineer | Machine Learning Enthusiast | Full Stack Developer</h3>
 
-I am a **Bachelor of Engineering student in Artificial Intelligence and Data Science** at **Siddhant College of Engineering (SPPU)**. I am passionate about leveraging data to solve real-world problems and building efficient automation tools.
-
----
-
-### 🚀 **About Me**
-
-- 🔭 **I’m currently working on:** Building **ShopConnect** (Referral Shop App) and **Eco Buddy**.
-- 🌱 **I’m currently learning:** **Microsoft Fabric (DP-700)**, Advanced Data Analytics, and preparing for **GSoC 2026**.
-- 👯 **I’m looking to collaborate on:** Open-source AI/ML projects and automation scripts.
-- 💬 **Ask me about:** Python, Data Science, Web Development, and Automation Anywhere.
-- ⚡ **Fun fact:** I run an Instagram page called **@2Code** where I share coding insights!
+<p align="center">
+Building AI-powered applications, solving DSA problems, and creating impactful software.
+</p>
 
 ---
 
-### 🛠 **Tech Stack**
+## 🚀 About Me
 
-**Languages:**
+🎓 Bachelor of Engineering (Artificial Intelligence & Data Science)  
+🏫 Siddhant College of Engineering, SPPU
+
+I am passionate about Artificial Intelligence, Machine Learning, Data Science, and Full Stack Development. I enjoy solving real-world problems using AI while continuously improving my problem-solving skills through DSA and competitive programming.
+
+- 🤖 Currently building AI-powered applications and end-to-end ML projects
+- 🔍 Exploring LLMs, RAG Systems, Vector Databases, and Generative AI
+- 📊 Interested in Data Analytics, Machine Learning, Deep Learning, and NLP
+- 💻 Regularly solving DSA, SQL, and Pandas problems on LeetCode
+- 🌱 Currently learning Microsoft Fabric, Advanced Machine Learning, LangChain, ChromaDB, and MLOps
+- 🚀 Preparing for Software Engineering, AI/ML, and Data Science roles
+- 💬 Ask me about Python, C++, SQL, Machine Learning, Data Science, Deep Learning, RAG, and Web Development
+
+---
+
+# 💻 Tech Stack
+
+### Programming Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**AI & Data Science:**
+---
+
+### AI • Machine Learning • Data Science
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**Tools & Platforms:**
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Automation Anywhere](https://img.shields.io/badge/Automation%20Anywhere-FF6F00?style=for-the-badge&logo=automationanywhere&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 
 ---
 
-### 📊 **Coding Profile & Stats**
+### Generative AI
 
-#### 🧠 **LeetCode Status**
-![LeetCode Stats](https://leetcard.jacoblin.cool/krg_kaushik?theme=dark&font=Segoe%20UI&ext=heatmap)
-
-#### 📈 **GitHub Stats**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krgkaushik&show_icons=true&theme=tokyonight" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krgkaushik&layout=compact&theme=tokyonight" height="180" alt="languages graph"  />
-</div>
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-4B0082?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LoRA](https://img.shields.io/badge/LoRA-Fine--Tuning-blue?style=for-the-badge)
 
 ---
 
-### 🏆 **Certifications & Achievements**
+### Web Development
 
-| Badge | Certification Name | Issuer |
-| :--- | :--- | :--- |
-| ![Adobe](https://img.shields.io/badge/Adobe-Certified-red?style=flat-square&logo=adobe&logoColor=white) | **Adobe Certified Professional** | Adobe |
-| ![Kaggle](https://img.shields.io/badge/Kaggle-Expert-20BEFF?style=flat-square&logo=Kaggle&logoColor=white) | **Kaggle Competitions/Datasets** | Kaggle |
-| ![Microsoft](https://img.shields.io/badge/Microsoft-Certified-00A4EF?style=flat-square&logo=microsoft&logoColor=white) | **Microsoft Fabric (DP-700)** *(In Progress)* | Microsoft |
-| ![Automation Anywhere](https://img.shields.io/badge/RPA-Certified-orange?style=flat-square&logo=automationanywhere&logoColor=white) | **Automation Anywhere Essentials** | Automation Anywhere |
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-### 📂 **Key Projects**
+### Tools
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **ShopConnect** | A referral-based shopping application connecting local stores. | *React, Node.js, MongoDB* |
-| **Eco Buddy** | An environmental awareness and tracking tool. | *Python, AI/ML* |
-| **EngiNotes Hub** | E-commerce platform for engineering study materials. | *Web Tech* |
-| **LinkedIn Auto-Bot** | Automated LinkedIn posting bot using Automation Anywhere. | *RPA* |
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-### 📫 **Connect with Me**
+# 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://instagram.com/kaushik_gunjkar">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="kaushikgunjkar52@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin-handle">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+## 🤖 AI Slop Detector
+
+An end-to-end AI-generated text detection system.
+
+### Highlights
+
+- Fine-tuned BERT using LoRA
+- Custom dataset containing over 10,000 Wikipedia paragraphs
+- AI-generated dataset created using GPT models
+- HuggingFace compatible dataset
+- High accuracy text classification
+
+**Tech**
+
+```
+Python
+PyTorch
+Transformers
+LoRA
+HuggingFace
+```
+
+---
+
+## 📚 RAG Question Answering System
+
+Built an intelligent Retrieval-Augmented Generation pipeline using:
+
+- LangChain
+- ChromaDB
+- Sentence Transformers
+- HuggingFace
+- Vector Search
+
+Features
+
+- PDF ingestion
+- Semantic Search
+- Context-aware Question Answering
+- Embedding-based Retrieval
+
+---
+
+## 📈 Customer Churn Prediction
+
+Machine Learning project for telecom customer churn prediction.
+
+Features
+
+- Data preprocessing
+- Feature engineering
+- Multiple ML models
+- Performance comparison
+- Prediction pipeline
+
+---
+
+## 📉 Stock Price Prediction
+
+Deep Learning project for stock forecasting.
+
+- Data Collection using Yahoo Finance
+- LSTM Neural Networks
+- Time Series Analysis
+- Visualization
+
+---
+
+## 📚 EngiNotes Hub
+
+An educational platform for engineering students.
+
+Features
+
+- Premium Notes
+- Secure PDF Download
+- Payment Integration
+- Student Dashboard
+
+---
+
+## 🛒 ShopConnect
+
+Referral-based shopping platform connecting local businesses with customers.
+
+Features
+
+- Referral Rewards
+- Wallet System
+- Local Shop Discovery
+- Digital Marketplace
+
+---
+
+## 🎮 Fun Projects
+
+- Tic Tac Toe AI
+- Balloon Blast Game
+- Free Fire Guide Website
+- Coding Landing Pages
+- Responsive Web Designs
+
+---
+
+# 🏆 Achievements
+
+🏅 Microsoft Certified: Fabric Analytics Engineer Associate (DP-700)
+
+🏅 Adobe Certified Professional
+
+🏅 Automation Anywhere Essentials
+
+🏅 Flipkart GRID Shortlisted Candidate
+
+🏅 Active LeetCode Problem Solver
+
+---
+
+# 📊 Coding Profiles
+
+## LeetCode
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/krg_kaushik?theme=dark&font=baloo&ext=heatmap)
+
+---
+
+## GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=krgkaushik&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krgkaushik&layout=compact&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krgkaushik&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Currently Learning
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- LangChain
+- ChromaDB
+- Microsoft Fabric
+- Deep Learning
+- MLOps
+- Advanced SQL
+- Data Engineering
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/krgkaushik">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:kaushikgunjkar52@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://instagram.com/2code">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+*"Code. Learn. Build. Repeat."*
+
+</p>
