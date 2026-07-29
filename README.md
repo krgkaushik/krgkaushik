@@ -1,419 +1,273 @@
-You are an award-winning GitHub profile designer, UI/UX designer, SVG animation engineer, and technical writer.
+<!-- Banner -->
+<p align="center">
+  <img src="banner.svg" width="100%" alt="GitHub Banner"/>
+</p>
 
-Your task is to build a COMPLETE premium GitHub Profile README repository.
+<h1 align="center">
+Hi 👋, I'm Kaushik Gunjkar
+</h1>
 
-Do NOT create placeholders.
-Do NOT shorten code.
-Do NOT omit sections.
-Generate production-ready code.
+<h3 align="center">
+Artificial Intelligence & Data Science Engineer • AI/ML Developer • Cloud Enthusiast
+</h3>
 
-====================================================
-MY INFORMATION
-====================================================
+<p align="center">
 
-Name:
-Kaushik Gunjkar
+🚀 Building AI Applications • Solving DSA • Learning Cloud • Open Source
 
-GitHub Username:
-krg_kaushik
+</p>
 
-GitHub:
-https://github.com/krg_kaushik
+---
 
-LeetCode:
-https://leetcode.com/krg_kaushik/
+# 💫 About Me
 
-Email:
-kaushikgunjkar52@gmail.com
+🎓 B.E. Artificial Intelligence & Data Science
 
-Role:
-AI Engineer
+🏫 Siddhant College of Engineering
 
-Professional Title:
-AI Engineer • Machine Learning Engineer • NLP Engineer • LLM Developer • Data Engineer
+☁️ Currently learning AWS & Cloud Computing
 
-Tagline:
-Building intelligent systems that solve real-world problems with AI, code, and creativity.
+🤖 Passionate about Artificial Intelligence, Machine Learning, LLMs and Data Engineering
 
-Location:
-India
+📚 Solved **500+ DSA Problems**
 
-====================================================
-ABOUT ME
-====================================================
+🏆 Microsoft Certified DP-700
 
-I'm an Artificial Intelligence & Data Science undergraduate passionate about building AI products, LLM applications, data engineering pipelines, and scalable software.
+🌱 Currently exploring
 
-Currently focusing on
+- Generative AI
+- LangChain
+- RAG Systems
+- Docker
+- Kubernetes
+- AWS
 
-• Artificial Intelligence
-• Machine Learning
-• Deep Learning
-• Large Language Models
-• NLP
-• Data Engineering
-• Cloud Computing
-• Open Source
+---
 
-I enjoy solving Data Structures & Algorithms problems and continuously improving my problem-solving skills.
+# 🌐 Connect With Me
 
-Achievements
+<p align="left">
 
-• Solved 500+ DSA Problems
-• Flipkart GRID 2026 Shortlisted
-• Microsoft Certified: Fabric Analytics Engineer Associate (DP-700)
-• Google Advanced Data Analytics Professional Certificate
-• DeepLearning.AI Deep Learning Specialization
-• Participated in 10+ National Level Hackathons
+<a href="https://github.com/krg_kaushik">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-====================================================
-TECH STACK
-====================================================
+<a href="https://leetcode.com/krg_kaushik">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
 
-Languages
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
 
-Python
-C++
-SQL
-JavaScript
+<a href="https://www.linkedin.com/in/yourlinkedin">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-Database
+</p>
 
-MySQL
-PostgreSQL
-MongoDB
+---
 
-Big Data
+# 🚀 Tech Stack
 
-Apache Spark
-Hadoop
+## Languages
 
-Data Processing
+<p>
 
-Pandas
-NumPy
+<img src="https://skillicons.dev/icons?i=python,cpp,js,sql"/>
 
-Machine Learning
+</p>
 
-Scikit-Learn
-PyTorch
-TensorFlow
-Machine Learning
-Deep Learning
-NLP
-LLMs
+---
 
-Generative AI
+## AI / ML
 
-LangChain
-ChromaDB
-Vector Databases
-Hugging Face
+<p>
 
-Cloud
+<img src="https://skillicons.dev/icons?i=pytorch"/>
 
-AWS
-Docker
-Kubernetes
+</p>
 
-Tools
+- Machine Learning
+- Deep Learning
+- NLP
+- LLMs
+- LangChain
+- Hugging Face
+- ChromaDB
+- Scikit-Learn
+- Pandas
+- NumPy
 
-Git
-GitHub
-Power BI
-Matplotlib
-Seaborn
+---
 
-====================================================
-FEATURED PROJECTS
-====================================================
+## Cloud & DevOps
 
-AI Slop Detector
+<p>
 
-• AI-generated text detector
-• LoRA Fine-Tuning
-• BERT
-• NLP
-• Classification
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github"/>
 
------------------------------------
+</p>
 
-RAG Question Answering System
+---
 
-• LangChain
-• ChromaDB
-• HuggingFace Embeddings
-• Semantic Search
-• Vector Database
+## Database
 
------------------------------------
+<p>
 
-Customer Churn Prediction
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
 
-• Random Forest
-• XGBoost
-• Logistic Regression
+</p>
 
------------------------------------
+---
 
-Stock Price Prediction
+## Web Development
 
-• LSTM
-• PyTorch
-• Time Series Forecasting
+<p>
 
-====================================================
-README DESIGN
-====================================================
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,fastapi"/>
 
-The README should look like a premium developer profile.
+</p>
 
-Centered layout.
+---
 
-Modern spacing.
+# 🏆 Certifications
 
-Dark Mode compatible.
+✅ Microsoft Certified
 
-Responsive.
+Fabric Analytics Engineer Associate (DP-700)
 
-Beautiful SVG animations.
+✅ Google Advanced Data Analytics Professional Certificate
 
-Professional.
+✅ DeepLearning.AI
 
-GitHub worthy.
+Deep Learning Specialization
 
-====================================================
-SECTIONS
-====================================================
+---
 
-1. Animated Banner
+# 🚀 Featured Projects
 
-Use
+## 🤖 AI Slop Detector
 
-banner.svg
+- Fine-tuned BERT using LoRA
+- Detects AI-generated content
+- Hugging Face Dataset
+- High Accuracy AI Text Classification
 
-banner-light.svg
+---
 
-Use picture tag
+## 📚 RAG Question Answering System
 
-Dark Mode automatically switches.
+- LangChain
+- ChromaDB
+- Hugging Face Embeddings
+- Semantic Search
+- Vector Database
 
-----------------------------------------------------
+---
 
-2. Typing Animation
+## 📄 AI Resume Analyzer
 
-Animated roles
+- React
+- FastAPI
+- TF-IDF
+- spaCy
+- Resume-Job Matching
 
-AI Engineer
+---
 
-Machine Learning Engineer
+## 📈 Customer Churn Prediction
 
-LLM Developer
+- Random Forest
+- XGBoost
+- Logistic Regression
+- 95% Accuracy
 
-NLP Engineer
+---
 
-Data Engineer
+## 📊 Stock Price Prediction
 
-Open Source Enthusiast
+- PyTorch LSTM
+- Yahoo Finance API
+- Time-Series Forecasting
 
-----------------------------------------------------
+---
 
-3. About Me
+# 📊 GitHub Statistics
 
-Beautiful bullet cards
+<p align="center">
 
-Animated icons
+<img src="https://github-readme-stats.vercel.app/api?username=krg_kaushik&show_icons=true&theme=tokyonight"/>
 
-----------------------------------------------------
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krg_kaushik&theme=tokyonight"/>
 
-4. Tech Stack
+</p>
 
-Modern badges
+---
 
-Grouped professionally
+# 📈 Most Used Languages
 
-----------------------------------------------------
+<p align="center">
 
-5. GitHub Analytics
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krg_kaushik&layout=compact&theme=tokyonight"/>
 
-Include
+</p>
 
-GitHub Stats Card
+---
 
-Top Languages
+# 🏅 LeetCode Progress
 
-GitHub Streak
+<p align="center">
 
-Contribution Graph
+<img src="https://leetcard.jacoblin.cool/krg_kaushik?theme=dark&font=Baloo"/>
 
-Profile Summary Cards
+</p>
 
-Productive Time
+---
 
-Repository Stats
+# 🐍 Contribution Snake
 
-Contribution Heatmap
+<p align="center">
 
-Activity Graph
+<img src="https://raw.githubusercontent.com/krg_kaushik/krg_kaushik/output/github-contribution-grid-snake.svg"/>
 
-Visitor Counter
+</p>
 
-Followers
+---
 
-Stars
+# 📌 Current Focus
 
-Repositories
+✔ Building AI Applications
 
-Use official GitHub compatible cards.
+✔ Large Language Models
 
-----------------------------------------------------
+✔ Retrieval-Augmented Generation (RAG)
 
-6. LeetCode
+✔ Cloud Computing (AWS)
 
-Display
+✔ Data Engineering
 
-LeetCode Stats
+✔ Open Source Contributions
 
-Contest Rating
+---
 
-Solved Problems
+# 📈 Coding Profiles
 
-LeetCode Badge
+| Platform | Link |
+|----------|------|
+| GitHub | https://github.com/krg_kaushik |
+| LeetCode | https://leetcode.com/krg_kaushik |
 
-Profile Link
+---
 
-Username
+# 💬 Favourite Quote
 
-krg_kaushik
+> "Consistency beats intensity."
 
-----------------------------------------------------
+---
 
-7. Featured Projects
+<p align="center">
 
-Beautiful project table
+⭐ Thanks for visiting my profile ⭐
 
-Icons
-
-Technology badges
-
-Repository buttons
-
-Demo buttons
-
-----------------------------------------------------
-
-8. Certifications
-
-Microsoft DP-700
-
-Google Advanced Data Analytics
-
-DeepLearning.AI
-
-----------------------------------------------------
-
-9. Achievements
-
-500+ DSA Problems
-
-10+ Hackathons
-
-Flipkart GRID 2026 Shortlisted
-
-----------------------------------------------------
-
-10. Connect With Me
-
-GitHub
-
-LinkedIn (leave placeholder)
-
-LeetCode
-
-Email
-
-Gmail
-
-----------------------------------------------------
-
-11. Snake Animation
-
-Use
-
-.github/workflows/github-snake.yml
-
-Generate
-
-output/github-contribution-grid-snake.svg
-
-----------------------------------------------------
-
-12. Footer
-
-Animated wave
-
-Quote
-
-"Code • Learn • Build • Repeat 🚀"
-
-====================================================
-STYLE
-====================================================
-
-Dark Pink
-
-Purple
-
-Cyber Theme
-
-Glassmorphism
-
-Neon
-
-Rounded Cards
-
-Modern Fonts
-
-Smooth Hover Effects
-
-Professional Layout
-
-No clutter
-
-====================================================
-IMPORTANT
-====================================================
-
-Use local SVGs where applicable.
-
-Append
-
-?v=1
-
-to every local SVG.
-
-Generate every required file.
-
-README.md
-
-banner.svg
-
-banner-light.svg
-
-lanyard.svg
-
-stats.svg
-
-langs.svg
-
-trophies.svg
-
-.github/workflows/github-snake.yml
-
-Everything should be GitHub compatible.
-
-No JavaScript.
-
-Only SVG + CSS + SMIL animations.
-
-Output production-ready code.
+</p>
