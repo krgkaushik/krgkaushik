@@ -71,17 +71,17 @@ Hello! I'm a Second-Year **B.E. Artificial Intelligence and Data Science** stude
     <tr>
       <td align="center">
         <!-- GitHub Stats -->
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=2196F3" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=krg_kaushik&show_icons=true&theme=tokyonight&hide_border=true&title_color=2196F3" alt="GitHub Stats" />
       </td>
       <td align="center">
         <!-- Top Languages -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=2196F3" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krg_kaushik&layout=compact&theme=tokyonight&hide_border=true&title_color=2196F3" alt="Top Languages" />
       </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
         <!-- 🏆 LeetCode Card -->
-        <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+        <img src="https://leetcard.jacoblin.cool/krg_kaushik?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
       </td>
     </tr>
   </table>
@@ -90,7 +90,7 @@ Hello! I'm a Second-Year **B.E. Artificial Intelligence and Data Science** stude
 ### 📈 GitHub Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krg_kaushik&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
 </div>
 
 ### 🐍 Contribution Snake
