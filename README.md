@@ -1,132 +1,304 @@
-<!-- 🎨 Animated Hero Banner -->
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Kaushik%20Rameshrao%20Gunjkar&fontSize=50&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=51&descAlign=62" width="100%" />
-</div>
 
-<div align="center">
-  
-<!-- 👋 Animated Typing Effect -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Bachelor+of+Engineering+in+AI+%26+Data+Science;GSoC+Contributor+|+Open+Source+Enthusiast;Full-Stack+Developer+%26+Predictive+Modeling;Building+Innovative+AI+Solutions" alt="Typing SVG" />
-</a>
+<!-- Animated Banner -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Kaushik+Gunjkar;AI+%26+Data+Science+Student;AI%2FML+Developer+%7C+Generative+AI+Enthusiast;Building+Intelligent+Systems;Open+Source+%26+Competitive+Programming" alt="Typing SVG" />
 
-<!-- 🌐 Social Links -->
-<p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
-</p>
-</div>
+<br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=krg_kaushik&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/krg_kaushik?label=Followers&style=for-the-badge&color=6366F1" alt="GitHub Followers"/>
 
-### 🧑‍💻 About Me
+<br/><br/>
 
-Hello! I'm a Second-Year **B.E. Artificial Intelligence and Data Science** student at Siddhant College of Engineering (Pune, Maharashtra) with a CGPA of 7.91. I bridge the gap between machine learning and full-stack development to build products that solve real-world problems.
+**Artificial Intelligence & Data Science Student | AI/ML Developer | Generative AI Enthusiast | Cloud Learner**
 
-*   🎓 **Current Academics:** Expected to graduate in May 2028.
-*   🌍 **Open Source:** Proud **GSoC Contributor**, with code and documentation commits to **OpenVINO, Angular, and CGAL**.
-*   💼 **Experience:** Former AI Intern at **CodSoft** and Software Engineering Virtual Intern at **Forage**.
-*   📚 **DSA Achievement:** Conquered the milestone of solving **500+ Data Structures & Algorithms problems**.
-*   🏆 **Hackathons:** Competed in the UIDAI Data Hackathon 2026 (Risk Analytics) and the India AI Impact Buildathon (Voice Detection).
-*   💡 **Future Vision:** Building a startup based on customizable hardware and educational tracking.
+📍 Pune, Maharashtra, India
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-krg__kaushik-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krg_kaushik)
+[![LeetCode](https://img.shields.io/badge/LeetCode-krg__kaushik-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/krg_kaushik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
 
-### 🚀 Featured AI/ML Projects
-
-| Project | Description | Technologies |
-| :--- | :--- | :--- |
-| **📈 ChartVision AI** | A web application utilizing computer vision to analyze uploaded trading charts and automatically extract technical indicators for financial signals. | `Python`, `Computer Vision`, `Machine Learning`, `Full-Stack` |
-| **🧠 StudyBuddy** | An educational tracking tool using CV to monitor student focus. It detects studying posture and active reading/writing to log true "focused time." | `OpenCV`, `Python`, `AI`, `Data Analytics` |
-| **⚕️ CarePlus** | A comprehensive full-stack booking and appointment management application designed to streamline scheduling. | `Full-Stack`, `Database Management`, `UI/UX` |
-
----
-
-### 🛠 Complete Tech Stack
-
-**Languages & Core Tech**  
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-**AI & Machine Learning**  
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white) ![OpenVINO](https://img.shields.io/badge/OpenVINO-005571?style=for-the-badge&logo=intel&logoColor=white) ![Data Analytics](https://img.shields.io/badge/Data_Analytics-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**☁️ Cloud, AWS & Tools**  
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📜 Certifications & 📚 Achievements
-
-*   🏅 **Microsoft Certified:** Fabric Analytics Engineer Associate (DP-700) - *January 2026*
-*   🔥 **Problem Solving:** Conquered **500+ DSA problems** on LeetCode.
-
----
-
-### 📊 GitHub & LeetCode Stats
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <!-- GitHub Stats -->
-        <img src="https://github-readme-stats.vercel.app/api?username=krg_kaushik&show_icons=true&theme=tokyonight&hide_border=true&title_color=2196F3" alt="GitHub Stats" />
-      </td>
-      <td align="center">
-        <!-- Top Languages -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krg_kaushik&layout=compact&theme=tokyonight&hide_border=true&title_color=2196F3" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <!-- 🏆 LeetCode Card -->
-        <img src="https://leetcard.jacoblin.cool/krg_kaushik?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 📈 GitHub Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krg_kaushik&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
-</div>
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <!-- Note: You need to set up the GitHub Action for the snake. Replace YOUR_GITHUB_USERNAME below once configured. -->
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
 
 ---
 
-### 🎯 Current Goals
+## 🧑‍💻 About Me
 
-- [x] Attain Microsoft Fabric Analytics Engineer (DP-700) Certification.
-- [ ] **Crack an internship at Microsoft.** 
-- [ ] Complete the Google Cloud Arcade (April & June 2026) to claim top rewards.
-- [ ] Launch hardware-software automation/educational tracking startup.
+I'm an **Artificial Intelligence & Data Science** undergraduate passionate about building intelligent software that solves real-world problems. My interests span **Machine Learning**, **Deep Learning**, **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **Cloud Computing**, and **Data Engineering**.
+
+I enjoy transforming ideas into practical AI applications while continuously sharpening my problem-solving skills through competitive programming. I've solved **500+ Data Structures & Algorithms** problems and actively participate in hackathons and open-source projects.
+
+I'm currently focused on mastering **cloud technologies**, **scalable AI systems**, and modern software development practices while contributing to impactful projects.
+
+> *"The best way to predict the future is to invent it."* — Alan Kay
+
+---
+
+## 🚀 Current Focus
+
+- 🎓 **B.E. Student** — Artificial Intelligence & Data Science
+- 💻 **AI & Machine Learning Developer**
+- ☁️ **AWS Cloud Learner**
+- 🚀 **Open Source Enthusiast**
+- 🧩 **Competitive Programmer**
+
+---
+
+## 🛠️ Skills & Technologies
+
+<div align="center">
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### AI / Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8B5CF6?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-A78BFA?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge)
+
+### Data Science & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+</div>
+
+<br/>
+
+<details>
+<summary><b>🧠 Soft Skills</b></summary>
+<br/>
+
+`Problem Solving` • `Analytical Thinking` • `Team Collaboration` • `Communication` • `Continuous Learning` • `Leadership` • `Time Management`
+
+</details>
+
+---
+
+## 🔥 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Slop Detector
+Fine-tuned a **BERT** model using **LoRA** to accurately detect AI-generated vs human-written content. Built a complete NLP pipeline (dataset creation → preprocessing → training → inference).
+
+**Tech:** PyTorch • Hugging Face • LoRA • BERT
+
+[![GitHub](https://img.shields.io/badge/Code-Repository-181717?style=flat-square&logo=github)](https://github.com/krg_kaushik/AI-Slop-Detector)
+
+</td>
+<td width="50%">
+
+### 📚 RAG Question Answering System
+Built a **Retrieval-Augmented Generation** system using LangChain, ChromaDB & Hugging Face embeddings for semantic search over custom documents.
+
+**Tech:** LangChain • ChromaDB • Hugging Face • RAG
+
+[![GitHub](https://img.shields.io/badge/Code-Repository-181717?style=flat-square&logo=github)](https://github.com/krg_kaushik/RAG-QA-System)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📄 AI Resume Analyzer
+Intelligent resume analysis platform that evaluates resumes against job descriptions and improves ATS compatibility using TF-IDF & spaCy.
+
+**Tech:** React • FastAPI • TF-IDF • spaCy
+
+[![GitHub](https://img.shields.io/badge/Code-Repository-181717?style=flat-square&logo=github)](https://github.com/krg_kaushik/AI-Resume-Analyzer)
+
+</td>
+<td width="50%">
+
+### 📈 Customer Churn Prediction
+Implemented multiple ML models (Random Forest, Logistic Regression, XGBoost) to predict customer churn with high accuracy.
+
+**Tech:** Scikit-learn • XGBoost • Pandas • ML
+
+[![GitHub](https://img.shields.io/badge/Code-Repository-181717?style=flat-square&logo=github)](https://github.com/krg_kaushik/Customer-Churn-Prediction)
+
+</td>
+</tr>
+<tr>
+<td width="50%" colspan="2">
+
+### 📊 Stock Price Prediction
+LSTM-based deep learning model built with **PyTorch** for forecasting stock prices from historical financial data.
+
+**Tech:** PyTorch • LSTM • Deep Learning • Time Series
+
+[![GitHub](https://img.shields.io/badge/Code-Repository-181717?style=flat-square&logo=github)](https://github.com/krg_kaushik/Stock-Price-Prediction)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=krg_kaushik&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=FFFFFF&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krg_kaushik&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krg_kaushik&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krg_kaushik&theme=radical&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD" alt="Activity Graph" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=krg_kaushik&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/krg_kaushik/krg_kaushik/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+
+</div>
+
+> ⚠️ *To enable the contribution snake, you need to set up the [github-readme-snake](https://github.com/Platane/snk) GitHub Action in a special repository named exactly as your username (`krg_kaushik`).*
+
+---
+
+## 📈 LeetCode Stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/krg_kaushik?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+
+</div>
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering (B.E.)**  
+**Artificial Intelligence & Data Science**  
+Siddhant College of Engineering  
+Savitribai Phule Pune University  
+
+📅 **2024 – 2028** | 📊 **CGPA: 7.91**
+
+---
+
+## 🏅 Certifications
+
+- ✅ **Microsoft Certified: Fabric Analytics Engineer Associate (DP-700)**
+- ✅ **Google Advanced Data Analytics Professional Certificate**
+- ✅ **DeepLearning.AI – Deep Learning Specialization**
+
+---
+
+## 🥇 Achievements
+
+- 🚀 Solved **500+** Data Structures & Algorithms problems
+- 🏆 Participated in **10+** National-Level Hackathons
+- 🎯 **Flipkart GRID Technical Assessment 2026** – Shortlisted
+- 📚 Active learner in AI, Cloud Computing & Data Engineering
+
+---
+
+## 🎯 Currently Learning
+
+```text
+☁️  AWS Cloud
+🐳  Docker & Kubernetes
+🏗️  System Design
+🔗  LangGraph
+🤖  Multi-Agent AI Systems
+⚙️  MLOps
+📊  Data Engineering
+```
+
+---
+
+## 💼 Open to Opportunities
+
+I'm currently seeking **internship opportunities** in:
+
+`Artificial Intelligence` • `Machine Learning` • `Data Science` • `Cloud Computing` • `Software Development`
+
+---
+
+## 😄 Fun Fact
+
+> I turn coffee into code and ideas into intelligent systems.  
+> When I'm not training models, you'll find me solving DSA problems or exploring the latest in Generative AI.
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-krg__kaushik-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krg_kaushik)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/krg_kaushik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+
+<br/>
+
+**⭐ Feel free to star my repositories if you find them interesting!**
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🎵 Spotify Now Playing
-<!-- Uses the novatorem/novify or similar Spotify readme widget. Replace URL with your deployed Vercel instance if you want live tracking -->
-<a href="https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=default&show_offline=true&background_color=1a1b26&interchange=true&bar_color_cover=true" alt="Spotify Now Playing" />
-</a>
+### Thanks for visiting! 🚀
 
-<br><br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Let's+build+something+amazing+together!;Open+to+collaboration+%26+opportunities" alt="Footer Typing" />
 
-### 👀 Profile Visitors
-<!-- Profile views counter -->
-<img src="https://komarev.com/ghjs-badge/?page_id=YOUR_GITHUB_USERNAME&color=blue&style=flat-square" alt="Profile Views" />
+<br/>
 
-<!-- ⭐ Footer with Animations -->
-<br><br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-<i>"Turning coffee and algorithms into intelligent systems."</i>
+**Made with 💜 by Kaushik Gunjkar**
+
 </div>
