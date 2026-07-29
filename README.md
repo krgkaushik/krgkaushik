@@ -1,76 +1,45 @@
-<!-- Banner -->
-<p align="center">
-  <img src="banner.svg" width="100%" alt="GitHub Banner"/>
-</p>
+<div align="center">
 
-<h1 align="center">
-Hi 👋, I'm Kaushik Gunjkar
-</h1>
+# Hi 👋 I'm Kaushik Gunjkar
 
-<h3 align="center">
-Artificial Intelligence & Data Science Engineer • AI/ML Developer • Cloud Enthusiast
-</h3>
+### Artificial Intelligence & Data Science Engineer
 
-<p align="center">
+Building AI • Machine Learning • Cloud • Open Source
 
-🚀 Building AI Applications • Solving DSA • Learning Cloud • Open Source
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;500%2B+DSA+Problems+Solved;Generative+AI+Developer;AWS+Cloud+Learner"/>
 
-</p>
+</div>
 
 ---
 
-# 💫 About Me
+## 🚀 About Me
 
-🎓 B.E. Artificial Intelligence & Data Science
+🎓 B.E Artificial Intelligence & Data Science
 
 🏫 Siddhant College of Engineering
 
-☁️ Currently learning AWS & Cloud Computing
+💻 AI & Machine Learning Developer
 
-🤖 Passionate about Artificial Intelligence, Machine Learning, LLMs and Data Engineering
+☁️ Learning AWS Cloud
 
-📚 Solved **500+ DSA Problems**
+📚 500+ DSA Problems Solved
 
-🏆 Microsoft Certified DP-700
+🏆 Microsoft DP-700 Certified
 
-🌱 Currently exploring
+🌱 Currently Exploring
 
-- Generative AI
+- LLMs
 - LangChain
-- RAG Systems
+- ChromaDB
 - Docker
 - Kubernetes
 - AWS
 
 ---
 
-# 🌐 Connect With Me
+# 🛠 Tech Stack
 
-<p align="left">
-
-<a href="https://github.com/krg_kaushik">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://leetcode.com/krg_kaushik">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/yourlinkedin">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</p>
-
----
-
-# 🚀 Tech Stack
-
-## Languages
+### Languages
 
 <p>
 
@@ -78,9 +47,7 @@ Artificial Intelligence & Data Science Engineer • AI/ML Developer • Cloud En
 
 </p>
 
----
-
-## AI / ML
+### AI & Machine Learning
 
 <p>
 
@@ -88,60 +55,29 @@ Artificial Intelligence & Data Science Engineer • AI/ML Developer • Cloud En
 
 </p>
 
-- Machine Learning
-- Deep Learning
-- NLP
-- LLMs
-- LangChain
-- Hugging Face
-- ChromaDB
-- Scikit-Learn
-- Pandas
-- NumPy
+Python • PyTorch • Scikit-Learn • Pandas • NumPy
+
+LangChain • HuggingFace • ChromaDB
 
 ---
 
-## Cloud & DevOps
+### Cloud
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes"/>
 
 </p>
 
 ---
 
-## Database
+### Database
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
 
 </p>
-
----
-
-## Web Development
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,fastapi"/>
-
-</p>
-
----
-
-# 🏆 Certifications
-
-✅ Microsoft Certified
-
-Fabric Analytics Engineer Associate (DP-700)
-
-✅ Google Advanced Data Analytics Professional Certificate
-
-✅ DeepLearning.AI
-
-Deep Learning Specialization
 
 ---
 
@@ -149,63 +85,49 @@ Deep Learning Specialization
 
 ## 🤖 AI Slop Detector
 
-- Fine-tuned BERT using LoRA
-- Detects AI-generated content
-- Hugging Face Dataset
-- High Accuracy AI Text Classification
+Fine-tuned BERT using LoRA to classify AI-generated content.
 
 ---
 
-## 📚 RAG Question Answering System
+## 📚 RAG Question Answering
 
-- LangChain
-- ChromaDB
-- Hugging Face Embeddings
-- Semantic Search
-- Vector Database
+LangChain + ChromaDB + HuggingFace
 
 ---
 
 ## 📄 AI Resume Analyzer
 
-- React
-- FastAPI
-- TF-IDF
-- spaCy
-- Resume-Job Matching
+React + FastAPI + NLP
 
 ---
 
 ## 📈 Customer Churn Prediction
 
-- Random Forest
-- XGBoost
-- Logistic Regression
-- 95% Accuracy
+95% Accuracy
+
+Random Forest + XGBoost
 
 ---
 
 ## 📊 Stock Price Prediction
 
-- PyTorch LSTM
-- Yahoo Finance API
-- Time-Series Forecasting
+LSTM using PyTorch
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=krg_kaushik&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=krg_kaushik&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krg_kaushik&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=krg_kaushik&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 📈 Most Used Languages
+# 💻 Most Used Languages
 
 <p align="center">
 
@@ -215,59 +137,32 @@ Deep Learning Specialization
 
 ---
 
-# 🏅 LeetCode Progress
+# 🏆 Certifications
 
-<p align="center">
+🏅 Microsoft DP-700
 
-<img src="https://leetcard.jacoblin.cool/krg_kaushik?theme=dark&font=Baloo"/>
+🏅 Google Advanced Data Analytics
 
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/krg_kaushik/krg_kaushik/output/github-contribution-grid-snake.svg"/>
-
-</p>
+🏅 DeepLearning.AI Specialization
 
 ---
 
-# 📌 Current Focus
+# 🐍 Contribution Graph
 
-✔ Building AI Applications
-
-✔ Large Language Models
-
-✔ Retrieval-Augmented Generation (RAG)
-
-✔ Cloud Computing (AWS)
-
-✔ Data Engineering
-
-✔ Open Source Contributions
+<img src="https://raw.githubusercontent.com/krg_kaushik/krg_kaushik/output/github-contribution-grid-snake.svg">
 
 ---
 
-# 📈 Coding Profiles
+# 📫 Connect
 
-| Platform | Link |
-|----------|------|
-| GitHub | https://github.com/krg_kaushik |
-| LeetCode | https://leetcode.com/krg_kaushik |
+GitHub
 
----
+LeetCode
 
-# 💬 Favourite Quote
+LinkedIn
 
-> "Consistency beats intensity."
+Email
 
 ---
 
-<p align="center">
-
-⭐ Thanks for visiting my profile ⭐
-
-</p>
+⭐ Thanks for visiting!
