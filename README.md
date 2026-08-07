@@ -170,16 +170,16 @@ LSTM-based deep learning model built with **PyTorch** for forecasting stock pric
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=krg_kaushik&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=FFFFFF&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krg_kaushik&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=krgkaushik&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=FFFFFF&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krgkaushik&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krg_kaushik&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krgkaushik&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krg_kaushik&theme=radical&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krgkaushik&theme=radical&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD" alt="Activity Graph" />
 
 </div>
 
