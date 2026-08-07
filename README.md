@@ -197,13 +197,14 @@ LSTM-based deep learning model built with **PyTorch** for forecasting stock pric
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/krg_kaushik/krg_kaushik/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-
-</div>
-
-> ⚠️ *To enable the contribution snake, you need to set up the [github-readme-snake](https://github.com/Platane/snk) GitHub Action in a special repository named exactly as your username (`krg_kaushik`).*
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/krgkaushik/krgkaushik/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/krgkaushik/krgkaushik/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/krgkaushik/krgkaushik/output/github-snake.svg" />
+</picture>
 
 ---
 
