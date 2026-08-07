@@ -189,7 +189,7 @@ LSTM-based deep learning model built with **PyTorch** for forecasting stock pric
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=krgkaushik&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=krgkaushik&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
