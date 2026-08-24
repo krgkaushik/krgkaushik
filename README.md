@@ -225,7 +225,7 @@ LSTM-based deep learning model built with **PyTorch** for forecasting stock pric
 Siddhant College of Engineering  
 Savitribai Phule Pune University  
 
-📅 **2024 – 2028** | 📊 **CGPA: 7.91**
+📅 **2024 – 2028** | 📊 **CGPA: 8.41**
 
 ---
 
