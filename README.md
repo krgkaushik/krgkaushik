@@ -268,13 +268,6 @@ I'm currently seeking **internship opportunities** in:
 
 ---
 
-## 😄 Fun Fact
-
-> I turn coffee into code and ideas into intelligent systems.  
-> When I'm not training models, you'll find me solving DSA problems or exploring the latest in Generative AI.
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
